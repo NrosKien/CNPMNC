@@ -1,0 +1,19 @@
+.bg{
+  background-color: #f2cf43;
+  background-image: linear-gradient(315deg, #f2cf43 0%, #19a186 74%);
+  height: 100vh;
+  min-height: 100vh;
+}
+.bg1{
+  background-color: #05e8ba;
+  background-image: linear-gradient(315deg, #05e8ba 0%, #087ee1 74%);
+  height: 100vh;
+  min-height: 100vh;
+}
+.bg2{
+  background-color: #ffffb5;
+  background-image: linear-gradient(315deg, #ffffb5 0%, #247ba0 74%);
+  height: 100vh;
+  min-height: 100vh;
+}
+
