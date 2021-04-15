@@ -12,7 +12,6 @@ export default function Login() {
         try{
             const response = await axios.post('http://localhost:8080/customer',data);
             console.log(`response`,response);
-            this.props.history.push('/Main');
         }
         catch (error){
             console.log(`error.response.data.message`,error.response.data.message);
